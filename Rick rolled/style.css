@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #070f80;
+  background-blend-mode: darken;
+}
+h1 {
+  margin-top: 100px;
+  height: 150px;
+  width: 500px;
+  text-align: center;
+  background: #ccc;
+  font-size: 50px;
+  border-radius: 20px;
+  box-shadow: 4px 10px 10px #000;
+  outline: none;
+  border: none;
+}
+.btn {
+  margin-top: 100px;
+  outline: none;
+  height: 200px;
+  width: 200px;
+  box-shadow: 4px 10px 10px #0fa2f7;
+  color: #000;
+  background: linear-gradient(#330963, rgb(10, 8, 114));
+  border: none;
+  border-radius: 20px;
+  border-style: dotted;
+  border-color: #4d93b4;
+  text-align: center;
+  text-shadow: 4px 10px 10px #000;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
